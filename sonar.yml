@@ -1,5 +1,5 @@
 ---
-- name: Install Gitlabs
+- name: Install sonarqube
   hosts: server
   become: true
   roles:
